@@ -1,2 +1,2 @@
-*Programowanie liniowe*
+**Programowanie liniowe**
 - przykladowe zadania oraz rozwiazania
